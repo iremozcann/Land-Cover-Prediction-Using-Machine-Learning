@@ -35,3 +35,13 @@ land cover prediction from satellite imagery. Furthermore,
 user-defined hyperparameters are optimized to obtain higher
 accuracy results. The Grid Search method was used to find the best
 parameters of each algorithm. Additionally, the k-fold cross-validation approach (k = 10, iteration = 10) is employed to obtain more precise and objective results.
+
+
+
+
+
+
+***References***
+-Das, Tapan Kumar, Dillip Kumar Barik, and KVG Raj Kumar. "Land-Use Land-Cover Prediction from Satellite Images using Machine Learning Techniques." 2022 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON). Vol. 1. IEEE, 2022.
+-https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/docs/WorldCover_PUM_V2.0.pdf
+-Castro Gomez, M. G. (2017). Joint use of Sentinel-1 and Sentinel-2 for land cover classification: A machine learning approach. Lund University GEM thesis series.
